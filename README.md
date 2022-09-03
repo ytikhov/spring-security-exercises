@@ -1,7 +1,7 @@
 # Web app with user/password authentication
 
 ### How to run
-1. Install JDK 11 https://adoptium.net/temurin
+1. Install JDK 17 https://adoptium.net/temurin
 1. Install https://maven.apache.org/
 2. Run command:
 ```
